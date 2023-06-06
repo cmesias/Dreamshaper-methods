@@ -2,7 +2,7 @@
 - Different sampling methods using Dreamshaper_6BakedVae.safetesors model/checkpoint.
 - Link to model/checkpont: https://huggingface.co/Lykon/DreamShaper
 
-Prompt is at the very bottom of page. 
+Prompt and PC details at the very bottom of page. 
 
 ---------------------------------------------------
 
@@ -51,10 +51,10 @@ Prompt is at the very bottom of page.
 
 ---------------------------------------------------
 
-# DDIM (RX 580)
+# DDIM (R9 380)
 ![DDIM](images/014_01_DDIM_[2m20s]_R8_380_00005-4195407017.png)
 
-# DDIM (RX 580)
+# DDIM (RX 480)
 ![DDIM](images/014_02_DDIM_[2m25s]_RX_580_00004-4195407017.png)
 
 # PLMS
@@ -84,7 +84,7 @@ paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), low
 
 # PC 1
 - CPU: i5 6600k
-- GPU: RX 480 (ATI Flashed to RX 580 because RX 480 wouldn't stop crashing with SD)
+- GPU: RX 480 (Flashed vbios to RX 580 vbios because default RX 480 vbios crashes on image generation)
 - Ram: 8GB
 
 # PC 2

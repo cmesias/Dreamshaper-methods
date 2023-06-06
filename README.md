@@ -1,17 +1,10 @@
 # Dreamshaper-methods
- Different sampling methods using Dreamshaper_6BakedVae.safetesors model/checkpoint.
- 
- Link to model/checkpont: https://huggingface.co/Lykon/DreamShaper
- 
-# PC 1
-- CPU: i5 6600k
-- GPU: RX 480 (ATI Flashed to RX 580 because RX 480 wouldn't stop crashing with SD)
-- Ram: 8GB
+- Different sampling methods using Dreamshaper_6BakedVae.safetesors model/checkpoint.
+- Link to model/checkpont: https://huggingface.co/Lykon/DreamShaper
 
-# PC 2
-- CPU: i5 7400
-- GPU: R9 380
-- Ram: 8GB
+Prompt is at very bottom of page and support me if you'd like at the end of the page.
+
+---------------------------------------------------
 
 # Eular A
 ![eular a](images/001_Eular_A_00055-4195407017.png).
@@ -72,8 +65,37 @@
 
 ---------------------------------------------------
 
+# Prompt
+[Positive prompt]
+8k resolution, highly detailed, (masterpiece), inside a spaceship in outer space, inside spaceship, large hallway in spaceship, young woman wearing high tech armor in aide the spaceship, high tech equipment, shipping boxes,
 
+[Negative prompt]
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), low res, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, bad legs, error legs, bad feet, large breasts, overly large breasts, huge breasts, masculine, tongue, teeth, fat, chubby, ugly
 
+- Steps: 28, 
+- Sampler: DPM++ SDE, 
+- CFG scale: 7, 
+- Seed: 4195407017, 
+- Size: 512x512, 
+- Model hash: c249d7853b, 
+- Model: dreamshaper_6BakedVae
+
+---------------------------------------------------
+
+# Paypal me
+- https://paypal.me/cmesias1
+
+# PC 1
+- CPU: i5 6600k
+- GPU: RX 480 (ATI Flashed to RX 580 because RX 480 wouldn't stop crashing with SD)
+- Ram: 8GB
+
+# PC 2
+- CPU: i5 7400
+- GPU: R9 380
+- Ram: 8GB
+
+ 
 
 
 

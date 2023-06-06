@@ -1,5 +1,17 @@
 # Dreamshaper-methods
- Different sampling methods using Dreamshaper_6 checkpoint.
+ Different sampling methods using Dreamshaper_6BakedVae.safetesors model/checkpoint.
+ 
+ Link to model/checkpont: https://huggingface.co/Lykon/DreamShaper
+ 
+# PC 1
+- CPU: i5 6600k
+- GPU: RX 480 (ATI Flashed to RX 580 because RX 480 wouldn't stop crashing with SD)
+- Ram: 8GB
+
+# PC 2
+- CPU: i5 7400
+- GPU: R9 380
+- Ram: 8GB
 
 # Eular A
 ![eular a](images/001_Eular_A_00055-4195407017.png).

@@ -2,7 +2,7 @@
 - Different sampling methods using Dreamshaper_6BakedVae.safetesors model/checkpoint.
 - Link to model/checkpont: https://huggingface.co/Lykon/DreamShaper
 
-Prompt is at very bottom of page and support me if you'd like at the end of the page.
+Prompt is at the very bottom of page. 
 
 ---------------------------------------------------
 
@@ -81,9 +81,6 @@ paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), low
 - Model: dreamshaper_6BakedVae
 
 ---------------------------------------------------
-
-# Paypal me
-- https://paypal.me/cmesias1
 
 # PC 1
 - CPU: i5 6600k

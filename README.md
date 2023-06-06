@@ -73,7 +73,7 @@ Prompt is at very bottom of page and support me if you'd like at the end of the 
 paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), low res, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, bad legs, error legs, bad feet, large breasts, overly large breasts, huge breasts, masculine, tongue, teeth, fat, chubby, ugly
 
 - Steps: 28, 
-- Sampler: DPM++ SDE, 
+- Sampler: _________, 
 - CFG scale: 7, 
 - Seed: 4195407017, 
 - Size: 512x512, 
